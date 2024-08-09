@@ -1,6 +1,3 @@
-
-
-ON 
 {
   "name": "MR.BRING",
   "version": "1.0.0",
@@ -28,5 +25,3 @@ ON
     "qrcode-terminal": "^0.12.0"
   }
 }
-package.json
-Displaying package.json.
