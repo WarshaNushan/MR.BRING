@@ -2,7 +2,7 @@
 bot
 <p align="center">  
   <a href="https://drive.google.com/file/d/15WhEUcqtz_VWoqTrHMXq9G1_Yx24gIVU/view?usp=drive_link">
-    <img alt="secktor docs" height="300" src="https://drive.google.com/file/d/15WhEUcqtz_VWoqTrHMXq9G1_Yx24gIVU/view?usp=drive_link">
+    <img alt="secktor docs" height="300" src="https://ibb.co/L6HDnv9">
     <h1 align="center"> MR.BRING </h1>
   </a>
 </p>  
