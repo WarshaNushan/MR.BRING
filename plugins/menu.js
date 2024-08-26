@@ -51,7 +51,7 @@ ${menu.search}
 
 POWERD BY 💖MR.BRING💖
  '
-await.conn.sendMessage(from,{text:madeMenu},{quoted:mek})
+await.conn.sendMessage(from,{image:{url:"https://i.ibb.co/d6xsG7k/Presentation1-2.jpg"},caption:madeMenu},{quoted:mek})
 
   
 
