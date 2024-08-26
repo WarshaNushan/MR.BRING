@@ -24,7 +24,34 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = ''
+let madeMenu = '👋HELLO ${pushname}👋
+> ⬇*DOWNLOAD COMMANDS*⬇
+
+${menu.download}   
+
+> ⛓*MAIN COMMANDS*⛓
+
+${menu.main} 
+
+> ⏩*GROUP COMMANDS*⏪
+
+${menu.group}
+
+> ♟*OWNER COMMANDS*♟
+
+${menu.owner}
+
+> 🏈*CONVERT COMMANDS*🏈
+
+${menu.convert}   
+
+> 🧐*SEARCH COMMANDS*🧐
+
+${menu.search} 
+
+POWERD BY 💖MR.BRING💖
+
+    '
 
 
   
