@@ -50,9 +50,8 @@ ${menu.convert}
 ${menu.search} 
 
 POWERD BY 💖MR.BRING💖
-
-    '
-
+ '
+await.conn.sendMessage(from,{text:madeMenu},{quoted:mek})
 
   
 
