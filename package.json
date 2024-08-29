@@ -1,12 +1,12 @@
 {
-  "name": "MR.BRING",
-  "version": "1.0.0",
-  "description": "A WhatsApp bot ",
+  "name": "MR.BRING-MD",
+  "version": "1.5.0",
+  "description": "A WhatsApp bot created by WARSHA",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MR.BRING",
-    "stop": "MR.BRING STOP DN",
-    "restart": "MR.BRING STOP DN"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SADIYA-MD",
+    "stop": "pm2 stop SADIYA-MD",
+    "restart": "pm2 restart SADIYA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -26,5 +26,6 @@
     "yt-search":"2.11.1",
     "api-dylux":"1.8.5",
     "mongoose":"8.5.4"
+    
   }
 }
