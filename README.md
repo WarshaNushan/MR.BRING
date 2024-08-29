@@ -17,6 +17,6 @@ bot
 
 
 
-●. ***[GET PAIR CODE](file:///C:/Users/USER/AppData/Local/Temp/Rar$EXa4652.31754/mr.bring-2--main/pair.html)***
+●. ***[GET PAIR CODE](https://pair-web-public.koyeb.app/)***
 
 ●.  ***Click [FORK](https://github.com/WarshaNushan/MR.BRING/fork)***
