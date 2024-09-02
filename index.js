@@ -42,9 +42,7 @@ async function connectToWA() {
 //================connect mongodb===================
 
 //================================================
-const {readEnv} = require('./lib/database')
-const config = await readEnv();
-const prefix = config.PREFIX
+
 //===============================================
         
 console.log("Connecting MR.BRING bot 🧬...");
