@@ -17,6 +17,7 @@ bot
 
 
 
-●. ***[GET PAIR CODE](https://pair-web-public.koyeb.app/)***
+●. ***[Link with phone number
+](https://pair-web-public.koyeb.app/)***
 
 ●.  ***Click [FORK](https://github.com/WarshaNushan/MR.BRING/fork)***
