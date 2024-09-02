@@ -1,4 +1,4 @@
-const {readEnv} = require('../lib/database')
+const config = require('../config')
 const {cmd , commands} = require('../command')
 
 cmd({
@@ -9,7 +9,6 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-const config = await readEnv();
 let munu = {
 main: '',
 download: '',
@@ -21,7 +20,7 @@ search: ''
 
 for (let i = 0; i < commands.length; i++) {
 if (commands[i].pattern && !commands[i].dontAddCommandList) {
-menu[commands[i].category] += `.${config.PREFIX}${commands[i].pattern}\n`;
+menu[commands[i].category] += `.${commands[i].pattern}\n`;
  }
 }
 
@@ -52,7 +51,7 @@ ${menu.search}
 
 POWERD BY 💖MR.BRING💖
  '
-await.conn.sendMessage(from,{image:{url:"config.ALIVE_IMG"},caption:madeMenu},{quoted:mek})
+await.conn.sendMessage(from,{image:{url:"https://i.ibb.co/d6xsG7k/Presentation1-2.jpg"},caption:madeMenu},{quoted:mek})
 
   
 
